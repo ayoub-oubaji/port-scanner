@@ -1,4 +1,4 @@
-cat > README.md <<'EOF'
+
 # 🚀 port-scanner
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/ayoub-oubaji/port-scanner)
